@@ -1,15 +1,19 @@
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="main.css">
+<html lang="en">
 <head>
-   <link rel="stylesheet" type="text/css" href="main.css">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="html.css">
+    <title>Recept för maträtt.</title>
 </head>
 <body>
 
 <header>
         <h1>ALLA KAN LAGA MAT.</h1>
-Välkommen till denna övning i HTML.
+
+        <h3>Välkommen till denna övning i HTML.</h3>
 
 </header>
 
@@ -50,6 +54,14 @@ Välkommen till denna övning i HTML.
     </ol>
 </h4>
 
+<a href="fisk"><img src="https://www.56kilo.se/wp-content/uploads/2020/01/012A7309.jpg"
+
+
+
+<aside>
+    <h3>
+        Kan alla laga mat?
+    </h3>
 </aside>
 
     <footer>
